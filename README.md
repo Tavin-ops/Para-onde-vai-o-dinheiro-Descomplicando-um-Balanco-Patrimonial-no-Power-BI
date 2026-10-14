@@ -28,6 +28,5 @@ Ferramentas utilizadas: Excel, Power BI e IA (Gemini).
 Uso da IA: a Inteligência Artificial foi utilizada para ajudar na elaboração do dashboard e na revisão do texto escrito. As demais atividades: criação dos dados no Excel, elaboração do dashboard no Power BI, escrita e revisão final do texto foram feitas 100% de forma humana por mim.
 Fonte dos dados:
  Dados brutos (Excel): Baixar planilha BP
-
-Repositório (Power BI):  Baixar repositório Power BI
+Repositório (Power BI): Baixar repositório Power BI
 NOTA: Todos os dados deste relatório foram criados exclusivamente para fins didáticos e para a realização deste trabalho.
