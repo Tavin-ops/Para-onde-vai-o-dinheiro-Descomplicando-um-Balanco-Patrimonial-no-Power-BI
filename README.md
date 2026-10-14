@@ -1,0 +1,1 @@
+# Para-onde-vai-o-dinheiro-Descomplicando-um-Balanco-Patrimonial-no-Power-BI
