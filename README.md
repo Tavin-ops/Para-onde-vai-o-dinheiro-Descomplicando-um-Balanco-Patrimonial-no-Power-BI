@@ -5,6 +5,7 @@ Você já tentou entender uma tabela contábil e só conseguiu ver números solt
         Em resumo, um balanço contábil serve para responder a duas perguntas fundamentais: De onde veio  dinheiro? e Onde ele está aplicado? 
 
 Para entender isso melhor, vamos dar uma olhada em um painel intuitivo feito no Power BI🔎
+<img width="1156" height="797" alt="Captura de tela 2026-10-14 150449" src="https://github.com/user-attachments/assets/8388ff7a-70a9-4edc-91d7-01a9792d17ce" />
 
 🧩As 3 peças do quebra-cabeça contábil:
 
@@ -23,10 +24,10 @@ Para entender isso melhor, vamos dar uma olhada em um painel intuitivo feito no 
 
 O gráfico de rosca (Distribuição do Patrimônio) foi escolhido para demonstrar visualmente a equivalência do Ativo com o Passivo + PL;
 O medidor (% do PL no agregado da empresa) foi selecionado para apresentar o quanto da empresa é financiado por capital próprio, o que mostra um bom controle da empresa com suas dívidas, já que quanto maior a dívida com terceiros mais risco a empresa corre de ficar inadimplente com esses terceiros e com o Estado.
-📂Transparência e reprodutibilidade (Open Source):
-Ferramentas utilizadas: Excel, Power BI e IA (Gemini).
-Uso da IA: a Inteligência Artificial foi utilizada para ajudar na elaboração do dashboard e na revisão do texto escrito. As demais atividades: criação dos dados no Excel, elaboração do dashboard no Power BI, escrita e revisão final do texto foram feitas 100% de forma humana por mim.
+  📂Transparência e reprodutibilidade (Open Source):
+ Ferramentas utilizadas: Excel, Power BI e IA (Gemini).
+ Uso da IA: a Inteligência Artificial foi utilizada para ajudar na elaboração do dashboard e na revisão do texto escrito. As demais atividades: criação dos dados no Excel, elaboração do dashboard no Power BI, escrita e revisão final do texto foram feitas 100% de forma humana por mim.
 Fonte dos dados:
  Dados brutos (Excel): Baixar planilha BP
-Repositório (Power BI): Baixar repositório Power BI
-NOTA: Todos os dados deste relatório foram criados exclusivamente para fins didáticos e para a realização deste trabalho.
+ Repositório (Power BI): Baixar repositório Power BI
+ NOTA: Todos os dados deste relatório foram criados exclusivamente para fins didáticos e para a realização deste trabalho.
