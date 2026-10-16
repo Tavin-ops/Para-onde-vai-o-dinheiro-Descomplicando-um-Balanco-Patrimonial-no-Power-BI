@@ -39,11 +39,17 @@ O medidor (% do PL no agregado da empresa) foi selecionado para apresentar o qua
   
  Ferramentas utilizadas: Excel, Power BI e IA (Gemini).
  
+ 
  Uso da IA: a Inteligência Artificial foi utilizada para ajudar na elaboração do dashboard e na revisão do texto escrito. As demais atividades: criação dos dados no Excel, elaboração do dashboard no Power BI, escrita e revisão final do texto foram feitas 100% de forma humana por mim.
+
 
 
  
 Fonte dos dados:
- Dados brutos (Excel): Baixar planilha BP
- Repositório (Power BI): Baixar repositório Power BI
+ Dados brutos (Excel): Baixar planilha BP https://docs.google.com/spreadsheets/d/1L36x1KWX4e2IdR_1Y61ndMNrSmy8QzF2/edit?usp=drive_link&ouid=103852350602804580069&rtpof=true&sd=true
+ 
+ Repositório (Power BI): Baixar repositório Power BI https://app.powerbi.com/groups/me/reports/020e7c8d-39d6-4aab-987a-387dd02b545f?language=pt-BR&experience=power-bi
+ 
  NOTA: Todos os dados deste relatório foram criados exclusivamente para fins didáticos e para a realização deste trabalho.
+
+ 
